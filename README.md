@@ -1,6 +1,5 @@
 # Office-365-Tools
 Outils autour des produits d'Office 365
 
-https://github.com/ludovicferra/Office-365-Tools/blob/main/Clear-TeamsCache.ps1
-
-![MSTeamsCC](https://user-images.githubusercontent.com/57104517/135531651-28a4f5a0-5c14-4e5d-8959-db53e472732d.png)
+https://github.com/ludovicferra/Office-365-Tools/blob/main/Reset-MSTeamsTools.ps1
+![image](https://user-images.githubusercontent.com/57104517/136505747-a87ad8bb-e28a-4610-9c5c-8af6472ae7eb.png)
