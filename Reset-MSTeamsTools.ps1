@@ -1,4 +1,4 @@
-#Ludovic Ferra
+﻿#Ludovic Ferra
 #https://github.com/ludovicferra
 
 Add-Type -Name Window -Namespace Console -MemberDefinition '
